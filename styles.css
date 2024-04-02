@@ -1,0 +1,10 @@
+.container{
+
+    font-size: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    color: black;
+    border: 1px solid #fff1;
+}
